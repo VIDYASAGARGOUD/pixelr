@@ -1511,6 +1511,12 @@ Contact Style
   font-weight: 600;
 }
 
+.contact-us .special-offer h3 em {
+  font-style: normal;
+  color: #7a6ad8;
+  font-weight: 600;
+}
+
 .contact-us .special-offer h4 {
   font-size: 22px;
   font-weight: 600;
