@@ -699,6 +699,10 @@ Banner Style
   margin-left: 130px;
 }
 
+.copyRights {
+  text-align: center;
+}
+
 .contact {
   background-color: #eee;
   position: absolute;
